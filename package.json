@@ -1,0 +1,24 @@
+{
+  "name": "luoji",
+  "version": "1.0.0",
+  "description": "罗技网页",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "罗技"
+  ],
+  "author": "likun",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass-china": "^3.1.0",
+    "gulp-scss": "^1.4.0",
+    "gulp-uglify": "^3.0.1"
+  }
+}
