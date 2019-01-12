@@ -1,0 +1,43 @@
+/*header*/
+header {
+  height: 102px;
+  position: relative; }
+  header .container {
+    max-width: 1220px;
+    margin: 0 auto;
+    padding: 0 15px; }
+    header .container .logo {
+      display: inline-block;
+      width: 170px;
+      height: 103px;
+      background: url(../images/logo1.png) no-repeat center; }
+  header .bg {
+    position: absolute;
+    left: 0;
+    top: 100%;
+    width: 100%;
+    height: 11px;
+    background: url(../images/header-bg.png) repeat-x; }
+
+/*section*/
+section {
+  max-width: 1220px;
+  margin: 0 auto;
+  padding: 0 15px; }
+  section .register-box {
+    width: 400px;
+    margin: 40px auto;
+    font-size: 12px; }
+    section .register-box .register-title {
+      position: relative;
+      height: 40px;
+      line-height: 40px; }
+      section .register-box .register-title .name {
+        color: #010101;
+        font-size: 18px; }
+    section .register-box .right-text {
+      position: absolute;
+      top: 0;
+      right: 0; }
+      section .register-box .right-text a {
+        color: #2369aa; }

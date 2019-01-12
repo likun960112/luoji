@@ -294,6 +294,22 @@
   color: #636363;
   font-size: 12px; }
 
+.footer-box .footer_wrap .help-box .help-connect {
+  float: left;
+  width: 200px;
+  text-align: center; }
+
+.footer-box .footer_wrap .help-box .help-connect .p1 {
+  color: #5c5b5b;
+  font-size: 22px;
+  line-height: 33px; }
+
+.footer-box .footer_wrap .help-box .help-connect .p2 {
+  color: #565656;
+  font-size: 12px;
+  line-height: 20px;
+  padding-bottom: 15px; }
+
 /*footer-last*/
 .footer-box .footer-last {
   display: block;
